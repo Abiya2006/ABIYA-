@@ -1,2 +1,2 @@
 print("Abiya Mary Jose")
-print("hello python.")
+print("hello python")
